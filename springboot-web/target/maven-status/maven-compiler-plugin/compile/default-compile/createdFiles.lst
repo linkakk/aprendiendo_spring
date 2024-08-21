@@ -1,0 +1,10 @@
+com\dondedanilo\app\springboot\tiendatios\springboot_web\controllers\HomeController.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\controllers\RequestParamsController.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\models\dto\ParamsDto.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\controllers\PathVariableController.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\controllers\UserRestController.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\ValuesConfig.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\controllers\UserController.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\models\dto\UserDto.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\models\User.class
+com\dondedanilo\app\springboot\tiendatios\springboot_web\SpringbootWebApplication.class
